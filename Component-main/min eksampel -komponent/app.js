@@ -67,7 +67,6 @@ app.component('web-udvikling', {
         </div>
       </div>
     </div>
-    <p>Hello</p>
     `
 });
 
